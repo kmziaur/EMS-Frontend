@@ -12,12 +12,6 @@ A modern, scalable, and responsive **Event Management System (EMS)** frontend bu
 - [⚙️ Installation](#️-installation)
 - [🚀 Running the Project](#-running-the-project)
 - [📦 Build for Production](#-build-for-production)
-- [🧹 Linting](#-linting)
-- [🎨 Styling](#-styling)
-- [📡 Environment Variables](#-environment-variables)
-- [📷 Screenshots](#-screenshots)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 - [👨‍💻 Author](#-author)
 
 ---
@@ -98,7 +92,7 @@ npm run build
 ```bash
 npm run preview
 ```
-### 👨‍💻 Author
+## 👨‍💻 Author
 K.M. Ziaur Rahman
 - [GitHub:](https://github.com/kmziaur)
 
