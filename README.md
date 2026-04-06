@@ -9,7 +9,7 @@ A modern, scalable, and responsive **Event Management System (EMS)** frontend bu
 - [✨ Features](#-features)
 - [🛠️ Tech Stack](#-tech-stack)
 - [📁 Project Structure](#-project-structure)
-- [⚙️ Installation](#️-installation)
+- [⚙️ Installation](#-installation)
 - [🚀 Running the Project](#-running-the-project)
 - [📦 Build for Production](#-build-for-production)
 - [👨‍💻 Author](#-author)
@@ -26,30 +26,46 @@ A modern, scalable, and responsive **Event Management System (EMS)** frontend bu
 - 🧠 Clean architecture for scalability
 - 📱 Fully responsive design
 - 🔍 Code quality enforced with **ESLint**
-- 🎯 Utility libraries like:
+- 🎯 Utility libraries:
   - `clsx`
   - `tailwind-merge`
-  - `lucide-react` (icons)
+  - `lucide-react`
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology        | Purpose                        |
-|------------------|--------------------------------|
-| React            | Frontend UI library            |
-| Vite             | Build tool & dev server        |
-| Tailwind CSS     | Utility-first CSS framework     |
-| React Router DOM | Routing                        |
-| TypeScript       | Static typing                  |
-| ESLint           | Code linting                  |
-| Lucide React     | Icons                         |
+| Technology        | Purpose                    |
+|------------------|---------------------------|
+| React            | Frontend UI library        |
+| Vite             | Build tool & dev server    |
+| Tailwind CSS     | Utility-first CSS framework|
+| React Router DOM | Routing                    |
+| TypeScript       | Static typing              |
+| ESLint           | Code linting               |
+| Lucide React     | Icons                      |
 
 ---
 
 ## 📁 Project Structure
 
-
+```bash
+EMS-Frontend/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── routes/
+│   ├── hooks/
+│   ├── utils/
+│   ├── App.tsx
+│   └── main.tsx
+│── index.html
+│── package.json
+│── tailwind.config.js
+│── vite.config.ts
+```
 
 ---
 
@@ -57,43 +73,51 @@ A modern, scalable, and responsive **Event Management System (EMS)** frontend bu
 
 ### 📥 Prerequisites
 
-Make sure you have the following installed:
-
 - Node.js (>= 16)
 - npm or yarn
-
----
 
 ### 🔧 Steps
 
 ```bash
-# Clone the repository
 git clone https://github.com/kmziaur/EMS-Frontend.git
-
-# Navigate to project directory
 cd EMS-Frontend
-
-# Install dependencies
 npm install
 ```
 
-### 🚀 Running the Project
+---
+
+## 🚀 Running the Project
+
 ```bash
 npm run dev
 ```
-```bash
+
+Open your browser:
+
+```
 http://localhost:5173
 ```
-### 📦 Build for Production
+
+---
+
+## 📦 Build for Production
+
 ```bash
 npm run build
 ```
-### 🔍 Preview Production Build
+
+---
+
+## 🔍 Preview Production Build
+
 ```bash
 npm run preview
 ```
+
+---
+
 ## 👨‍💻 Author
-K.M. Ziaur Rahman
+
+**K.M. Ziaur Rahman**
+
 - [GitHub:](https://github.com/kmziaur)
-
-
