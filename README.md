@@ -83,7 +83,23 @@ cd EMS-Frontend
 npm install
 ```
 
-###🚀 Running the Project
+### 🚀 Running the Project
 ```bash
 npm run dev
 ```
+```bash
+http://localhost:5173
+```
+### 📦 Build for Production
+```bash
+npm run build
+```
+### 🔍 Preview Production Build
+```bash
+npm run preview
+```
+### 👨‍💻 Author
+K.M. Ziaur Rahman
+- GitHub: @kmziaur
+
+
