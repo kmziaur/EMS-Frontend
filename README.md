@@ -121,3 +121,9 @@ npm run preview
 **K.M. Ziaur Rahman**
 
 - [GitHub:](https://github.com/kmziaur)
+
+  ---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
