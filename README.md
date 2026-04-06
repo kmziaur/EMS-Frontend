@@ -81,6 +81,7 @@ cd EMS-Frontend
 
 # Install dependencies
 npm install
+```bash
 
 ###🚀 Running the Project
 ```npm run dev
