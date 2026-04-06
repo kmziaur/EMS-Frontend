@@ -100,6 +100,6 @@ npm run preview
 ```
 ### 👨‍💻 Author
 K.M. Ziaur Rahman
-- GitHub: @kmziaur
+- [GitHub:](https://github.com/kmziaur)
 
 
