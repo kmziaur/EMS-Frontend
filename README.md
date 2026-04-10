@@ -1,39 +1,39 @@
-# 🚀 EMS-Frontend
+#  EMS-Frontend
 
 A modern, scalable, and responsive **Event Management System (EMS)** frontend built with **React**, **Vite**, and **Tailwind CSS**. This project provides a clean UI architecture for managing events efficiently with fast performance and modular code structure.
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
-- [✨ Features](#-features)
-- [🛠️ Tech Stack](#-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [⚙️ Installation](#-installation)
-- [🚀 Running the Project](#-running-the-project)
-- [📦 Build for Production](#-build-for-production)
-- [👨‍💻 Author](#-author)
+- [ Features](#-features)
+- [ Tech Stack](#-tech-stack)
+- [ Project Structure](#-project-structure)
+- [ Installation](#-installation)
+- [ Running the Project](#-running-the-project)
+- [ Build for Production](#-build-for-production)
+- [ Author](#-author)
 
 ---
 
-## ✨ Features
+##  Features
 
-- ⚡ Lightning-fast development with **Vite**
-- ⚛️ Built with **React 18**
-- 🎨 Styled using **Tailwind CSS**
-- 🧭 Client-side routing with **React Router DOM**
-- 🧩 Modular and reusable components
-- 🧠 Clean architecture for scalability
-- 📱 Fully responsive design
-- 🔍 Code quality enforced with **ESLint**
-- 🎯 Utility libraries:
+-  Lightning-fast development with **Vite**
+-  Built with **React 18**
+-  Styled using **Tailwind CSS**
+-  Client-side routing with **React Router DOM**
+-  Modular and reusable components
+-  Clean architecture for scalability
+-  Fully responsive design
+-  Code quality enforced with **ESLint**
+-  Utility libraries:
   - `clsx`
   - `tailwind-merge`
   - `lucide-react`
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology        | Purpose                    |
 |------------------|---------------------------|
@@ -47,7 +47,7 @@ A modern, scalable, and responsive **Event Management System (EMS)** frontend bu
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 EMS-Frontend/
@@ -69,14 +69,14 @@ EMS-Frontend/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
-### 📥 Prerequisites
+###  Prerequisites
 
 - Node.js (>= 16)
 - npm or yarn
 
-### 🔧 Steps
+###  Steps
 
 ```bash
 git clone https://github.com/kmziaur/EMS-Frontend.git
@@ -86,7 +86,7 @@ npm install
 
 ---
 
-## 🚀 Running the Project
+##  Running the Project
 
 ```bash
 npm run dev
@@ -100,7 +100,7 @@ http://localhost:5173
 
 ---
 
-## 📦 Build for Production
+##  Build for Production
 
 ```bash
 npm run build
@@ -108,7 +108,7 @@ npm run build
 
 ---
 
-## 🔍 Preview Production Build
+##  Preview Production Build
 
 ```bash
 npm run preview
@@ -116,7 +116,7 @@ npm run preview
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **K.M. Ziaur Rahman**
 
